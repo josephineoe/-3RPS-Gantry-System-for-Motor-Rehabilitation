@@ -17,5 +17,5 @@ As part of the development team, I led the IMU integration and sensor fusion pip
 
 +Supported safety interlocks based on tilt thresholds to prevent overextension.
 
-+This system laid the groundwork for future developments like spline-based movement learning and SD card-driven motion playback, offering a scalable foundation for intelligent rehabilitation robotics.
+This system laid the groundwork for future developments like spline-based movement learning and SD card-driven motion playback, offering a scalable foundation for intelligent rehabilitation robotics.
 
