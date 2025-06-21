@@ -9,13 +9,13 @@ As part of the development team, I led the IMU integration and sensor fusion pip
 
 🔧 Key Contributions:
 
-+Designed and implemented IMU communication and processing over I2C.
++ Designed and implemented IMU communication and processing over I2C.
 
-+Developed real-time roll/pitch estimation from raw gyro data.
++ Developed real-time roll/pitch estimation from raw gyro data.
 
-+Enabled multi-cog feedback integration to adjust platform tilt dynamically.
++ Enabled multi-cog feedback integration to adjust platform tilt dynamically.
 
-+Supported safety interlocks based on tilt thresholds to prevent overextension.
++ Supported safety interlocks based on tilt thresholds to prevent overextension.
 
 This system laid the groundwork for future developments like spline-based movement learning and SD card-driven motion playback, offering a scalable foundation for intelligent rehabilitation robotics.
 
